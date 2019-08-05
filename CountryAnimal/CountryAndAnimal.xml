@@ -1,0 +1,18 @@
+<AllCountry>
+
+    <Country id="India">
+        <CountryName>India</CountryName>
+        <Animal>Cow, Tiger</Animal>
+    </Country>
+
+    <Country id="Australia">
+        <CountryName>Australia</CountryName>
+        <Animal>Kiwi, Cow</Animal>
+    </Country>
+
+    <Country id="SriLanka">
+        <CountryName>Sri Lanka</CountryName>
+        <Animal>Lion, Elephant</Animal>
+    </Country>
+
+</AllCountry>
